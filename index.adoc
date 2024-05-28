@@ -172,6 +172,8 @@ image:images/Octicons-mark-github.svg[git,30] https://github.com/Flavia95[GitHub
 - link:http://hypervolu.me/~erik/erik_garrison.html[Erik Garrison], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://github.com/Flavia95[Flavia Villani], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://thebird.nl/[Pjotr Prins], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://www.linkedin.com/in/shelbysolomondarnell/?originalSubdomain=ke[Shelby Solomon Darnell], University of Tennessee Health Science Center, Memphis, TN, US
+- link:https://uni-tuebingen.de/en/research/research-infrastructure/quantitative-biology-center-qbic/team/[Simon Heumos], Quantitative Biology Center (QBiC), Tübingen, BW, DE
 - link:https://www.uthsc.edu/faculty/profile/?netid=vcolonna[Vincenza Colonna], University of Tennessee Health Science Center, Memphis, TN, US
 - link:https://uthsc.edu/search/detail.php?id=T100344325[Tamara Brock], University of Tennessee Health Science Center, Memphis, TN, US
 
